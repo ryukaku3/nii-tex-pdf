@@ -15,3 +15,9 @@
 #### yum
     # yum --enablerepo=nii-tex-pdf search nii-
     # yum --enablerepo=nii-tex-pdf install nii-Tex-pdf
+
+#### DEPENDS perl
+    perl-XML-LibXML(rpm)
+    perl-Data-Dump(rpm)
+    perl-Encode(rpm)
+    List::BinarySearch::XS    

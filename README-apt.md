@@ -13,3 +13,8 @@
     # apt-get update
     （yesにはしません。リポジトリのキャッシュのみを更新する）
     # apt-get install nii-pdf
+
+#### DEPENDS perl
+    libyaml-perl(deb)
+    libxml-libxml-perl(deb)
+    List::BinarySearch::XS    
