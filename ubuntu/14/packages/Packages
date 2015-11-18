@@ -54,11 +54,11 @@ Architecture: amd64
 Version: 1.0.3-1
 Depends: perl, libyaml-perl, nii-tex-pdf-kyotocabinet-perl
 Filename: ./nii-tex-pdf_1.0.3-1_amd64.deb
-Size: 19138
-MD5sum: b2081069aa32b9414abd9a61b614019c
-SHA1: d95a348c60cc0e2e38225dd7d5d2017767cf0632
-SHA256: a73fd679aa11b6bd6d6cd1f11e002198b99e49cd39b1df8e64e393602a5d8a49
-SHA512: 04064cd2e37edbcc87966cc21cde0c58db28dbcc9dbd0dbdd6ee79b4230143ef3b366c81067a909aca4617235de837e049a6d19f7ab66f6a76ee28fe9a6eccc3
+Size: 19216
+MD5sum: c2cf8a11156e48e78c86a25925fd2037
+SHA1: 16fa58dc99e725e30782fb108cc23be4307c706e
+SHA256: 1aac8ffd756109ed132e34466d4770fef9727b1a85bd966e8a61f32f0d77bc41
+SHA512: 1dbca10893d952417a2671721a8cb8ce5e0479f1314991f7a725d6b91dffb7b44929725d9c05a4dd258580d04cca81127ef3dd830040aa5e9a30cd5871786c6f
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 Homepage: <insert the upstream URL, if relevant>
