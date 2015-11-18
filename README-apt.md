@@ -7,7 +7,7 @@
     ##-------------------------------------
     ## nii-tex-pdf
     ##-------------------------------------
-    deb https://ryukaku3.github.io/tex-pdf/ubuntu/14/packages ./
+    deb https://ryukaku3.github.io/nii-tex-pdf/ubuntu/14/packages ./
 
 #### apt
     # apt-get update
