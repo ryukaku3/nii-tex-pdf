@@ -1,3 +1,34 @@
+Package: liblist-binarysearch-xs-perl
+Priority: optional
+Section: perl
+Installed-Size: 101
+Maintainer: root <root@>
+Architecture: amd64
+Version: 0.09-1
+Depends: perl (>= 5.18.2-2ubuntu1), perlapi-5.18.2, libc6 (>= 2.2.5)
+Filename: ./liblist-binarysearch-xs-perl_0.09-1_amd64.deb
+Size: 19260
+MD5sum: 4132ec3fdf6af83bfe823230c5d52c58
+SHA1: 31bf75f364b0fa79feb700fa2cb5b2ceb8d826c2
+SHA256: 89a8689df365beb188f9b8a5e2e6d061dcbd61a10a98db6a50ecda27f02ec83d
+SHA512: 547a9900ddcc7af39c5fe716fa522c2b75de9fe078ca445ef09f505a5a26cd5fce607046e77a02d462c588df73d54307ddba3339b974eb6481c1ac40868fcd75
+Description: Binary Search a sorted array with XS routines.
+ A binary search searches sorted lists using a divide and conquer technique.
+ On each iteration the search domain is cut in half, until the result is
+ found. The computational complexity of a binary search is O(log n).
+ .
+ List::BinarySearch::XS implements several Binary Search algorithms using XS
+ code for optimal performance. You are free to use this module directly, or as
+ a plugin for the more general List::BinarySearch.
+ .
+ The binary search algorithm implemented in this module is known as a Deferred
+ Detection Binary Search. Deferred Detection provides stable searches. Stable
+ binary search algorithms have the following characteristics, contrasted with
+ their unstable binary search cousins:
+ .
+ This description was automagically extracted from the module by dh-make-perl.
+Homepage: https://metacpan.org/release/List-BinarySearch-XS
+
 Package: nii-tex-pdf-kyotocabinet-perl
 Priority: extra
 Section: checkinstall
