@@ -68,13 +68,13 @@ Installed-Size: 150
 Maintainer: installer <installer@unknown>
 Architecture: amd64
 Version: 1.0.3-1
-Depends: libyaml-perl, nii-tex-pdf-kyotocabinet-perl, libxml-libxml-perl
+Depends: libyaml-perl, nii-tex-pdf-kyotocabinet-perl, libxml-libxml-perl, liblist-binarysearch-xs-perl
 Filename: ./nii-tex-pdf_1.0.3-1_amd64.deb
-Size: 17576
-MD5sum: 0238473f660bad1b7e15b484d1e2a936
-SHA1: 8a110a69ba104fa1cb3f1e4311764e61c29ee679
-SHA256: c6c23708bb9ee7d26b6bab18807bbb744ddbe586c95954a65b6d538ae551a068
-SHA512: 93c0628b936dbd5546fe9ef990f8d88e30e2d84dbf78917c6db3a55a3aedf79f2df45432f6771548c10ebc40359cec1a955032b1f9eacd41f68b2ecaed68f082
+Size: 17598
+MD5sum: be1d1dd1ac854112ad5059e4a714ca40
+SHA1: 6357df49d06b307af7c4fdde97d95333d94a1dcb
+SHA256: a34960b1d73742f2f0dff1a6a2383d989308bbd3893ec38a10e2a790f5561c8f
+SHA512: 0b3b4889e9b0a06b5065b02dc8283261814ff0960a3bf2553c1f5dd386adabf1f7571c4a96a14994436a0a23ad64adf850213c523826d7e02ed3af3471ef51ac
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 Homepage: <insert the upstream URL, if relevant>
