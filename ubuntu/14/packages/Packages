@@ -48,17 +48,17 @@ Description: Package created with checkinstall 1.6.2
 Package: nii-tex-pdf
 Priority: optional
 Section: libs
-Installed-Size: 154
+Installed-Size: 153
 Maintainer: installer <installer@unknown>
 Architecture: amd64
 Version: 1.0.3-1
 Depends: perl, libyaml-perl, nii-tex-pdf-kyotocabinet-perl
 Filename: ./nii-tex-pdf_1.0.3-1_amd64.deb
-Size: 19444
-MD5sum: 033ea7a71401b275cf95c0910b00d1aa
-SHA1: c696d8c51d35a5669914f5d79b5149388dfe3291
-SHA256: 46595f384096571326dc482b189cb7e8317a1ed5be52b9da6e078e8d326d054b
-SHA512: f50b1022a8d98cb613fa0790a495fc6b2181e2f33e9ea551179fdff4d11f40785601fc3bea3eb6b56fe33c99b11e69abbf1f1b8db094fc84dbd2fbd5d50947fe
+Size: 19312
+MD5sum: 104ecef7e7ed0c93cf37a03c81433e05
+SHA1: b435877873dcda4a57710352ac9b3ea56ba16199
+SHA256: ef4e2f761ed519adb8fec0df91c28c0875e2bac0eddedb8e0db81e858971c30a
+SHA512: d3f148cd5f5a70edb20dd0acbff1ee8056071727e9367de419ab4dde22aa4831bee47850adffa3ade66e01fa5ba45e8ce30747c4ff0a764eb44f39a8bf76a047
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 Homepage: <insert the upstream URL, if relevant>
