@@ -1,7 +1,7 @@
 ### nii-tex-pdf
 
 #### repo file.
-    # vi /etc/apt/sources.list
+    # vi /etc/apt/sources.list.d/nii-tex-pdf.list 
 
 ####
     ##-------------------------------------
@@ -11,10 +11,12 @@
 
 #### apt
     # apt-get update
-    （yesにはしません。リポジトリのキャッシュのみを更新する）
+    （リポジトリのキャッシュのみを更新する）
+    # apt-cache search nii-pdf
     # apt-get install nii-pdf
 
 #### DEPENDS perl
     libyaml-perl(deb)
     libxml-libxml-perl(deb)
-    List::BinarySearch::XS    
+    List::BinarySearch::XS(cpan)
+    JSON::RPC(cpan)
