@@ -1,3 +1,20 @@
+Package: nii-tex-pdf
+Priority: optional
+Section: unknown
+Installed-Size: 153
+Maintainer: root <root@unknown>
+Architecture: all
+Version: 1.0.3-1
+Filename: ./nii-tex-pdf_1.0.3-1_all.deb
+Size: 19008
+MD5sum: bbdce08da216e5312b2bdf90a6c63303
+SHA1: 5829a6997ba91d8f44e182842b3a9bb4d7bf257f
+SHA256: c21f81c183f17efc350eda3c18d51b561da180c971c4ba140d9fd4726a4b6733
+SHA512: 2ddcad8f5a56560529b5fd15785d1750d98a9baf7d0509baf1da0b1ef7770e62ebe75830454a85c06ddfb840b64e33e4bbfebd1ce48455a725c068b996d6a412
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+Homepage: <insert the upstream URL, if relevant>
+
 Package: liblist-binarysearch-xs-perl
 Priority: optional
 Section: perl
@@ -44,22 +61,4 @@ SHA1: 1634eeba23c90dc7f7842040426eb9c920c2057c
 SHA256: bb6fda47d497176781a4d7f8b7a92ee539f1340f0f2e503b9bb620f6b94c68fd
 SHA512: 80e19ddc4c35069ad7f4474201306b88fec19b0cc60619fe69d44a73088d11b0363284b32f0fe4e524f24390de7fe4295c36ec5aebfebeb795974ba179ba49ca
 Description: Package created with checkinstall 1.6.2
-
-Package: nii-tex-pdf
-Priority: optional
-Section: libs
-Installed-Size: 154
-Maintainer: installer <installer@unknown>
-Architecture: amd64
-Version: 1.0.3-1
-Depends: perl, libyaml-perl, nii-tex-pdf-kyotocabinet-perl
-Filename: ./nii-tex-pdf_1.0.3-1_amd64.deb
-Size: 19444
-MD5sum: 033ea7a71401b275cf95c0910b00d1aa
-SHA1: c696d8c51d35a5669914f5d79b5149388dfe3291
-SHA256: 46595f384096571326dc482b189cb7e8317a1ed5be52b9da6e078e8d326d054b
-SHA512: f50b1022a8d98cb613fa0790a495fc6b2181e2f33e9ea551179fdff4d11f40785601fc3bea3eb6b56fe33c99b11e69abbf1f1b8db094fc84dbd2fbd5d50947fe
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
-Homepage: <insert the upstream URL, if relevant>
 
