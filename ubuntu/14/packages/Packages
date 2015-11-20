@@ -32,3 +32,20 @@ SHA256: a4b9e5b505190aceb5107c3dad7edd26dac1358884315d79eac5dd0f05969b2d
 SHA512: 89d2a98ac6e3b74503fb432db66783ff54ab221bc554c519440672510bccc8477910a55e9766bd2d18e773053f3af7ded492a9e6a2b81c640f4c4044945651ae
 Description: Package created with checkinstall 1.6.2
 
+Package: nii-tex-pdf-kyotocabinet-perl
+Priority: optional
+Section: unknown
+Installed-Size: 549
+Maintainer: root <root@unknown>
+Architecture: all
+Version: 1.20-1
+Filename: ./nii-tex-pdf-kyotocabinet-perl_1.20-1_all.deb
+Size: 100692
+MD5sum: d3ce19973d28555db0c56298dfadb5bb
+SHA1: dd9848eebe62afb1ee31162eb0500c4d9e33dbad
+SHA256: a8cce713b952269e5cbf9fcc6c17cfdc72181f27d80d139700e4f3daf5659a46
+SHA512: 52053a408f3154125e8a292146f758ed11ccb95e5cc5f19ab2845c13813a68551e44a1f73001ed9ea46792f3bdcdda9c3f6a9611e5ce7cd3cf40eb76baf8ace6
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+Homepage: <insert the upstream URL, if relevant>
+
