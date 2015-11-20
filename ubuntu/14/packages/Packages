@@ -2,16 +2,16 @@ Package: nii-tex-pdf
 Priority: optional
 Section: unknown
 Installed-Size: 153
-Maintainer: root <root@unknown>
+Maintainer: tkana <tkana@kyagroup.com>
 Architecture: all
 Version: 1.0.3-1
-Depends: libyaml-perl, nii-tex-pdf-kyotocabinet-perl
+Depends: libyaml-perl, nii-tex-pdf-kyotocabinet-perl, libkyotocabinet-dev, libkyotocabinet16
 Filename: ./nii-tex-pdf_1.0.3-1_all.deb
-Size: 18998
-MD5sum: 1a47b3fae79ba27fa08eec0b8a0db437
-SHA1: aec8ce010c1083d79be14b748740b23792f51fb1
-SHA256: 76424dee60f0f6dee76b50f1bb6deb9b99462b2beac289c369064aa352e2b2bc
-SHA512: e6045c6206e04014cacb938ecb64b7466efc452278f62f67b210260e5d4fbb7eab5e262380d5b8ca7b338a3bd0654da794bd8019001b49e3bcad404940bb3bad
+Size: 19024
+MD5sum: 91605f1759ae197bfcf0da0401eba553
+SHA1: 3b17a2af94e78b31e33a63c3ff4a95bd2447a99c
+SHA256: 40df93eddc3888888dcb2f33d319ac7edad722ccfc6af5651a7a70886f7e4bb7
+SHA512: 5f3a83c152ee2ebf59695ae3218b1b18a889ade1dd6be01bb6ef5028455d11d23f9b7a50ac5ae9a286699586170f496b656d1c082c5a3a74dc9b6c33f59fcc3d
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 Homepage: <insert the upstream URL, if relevant>
