@@ -32,17 +32,17 @@ Homepage: https://metacpan.org/release/List-BinarySearch-XS
 Package: nii-tex-pdf-kyotocabinet-perl
 Priority: extra
 Section: checkinstall
-Installed-Size: 336
-Maintainer: root@cabinet5
+Installed-Size: 252
+Maintainer: kyagroup.com
 Architecture: amd64
 Version: 1.20-1
 Provides: nii-tex-pdf-kyotocabinet-perl
 Filename: ./nii-tex-pdf-kyotocabinet-perl_1.20-1_amd64.deb
-Size: 57606
-MD5sum: 421186120e56dfa2d75edb0dd5880425
-SHA1: f67893f739f291ec938920fa6342162710d9de38
-SHA256: 72e55f5fdc6b357b5671ee84f1b4b2dc10787fb1b07a770cbee580e1804d6d5f
-SHA512: 67185134d310aef1549baf0a747e9127f5a81ace50e4d7c50847fadb698e6ff20d50f2222871e7bb25acea1213c588baa2e70701a89d47c5900f862c017a8604
+Size: 48608
+MD5sum: ef331ce26b9a1d4b63a21d411d3d457f
+SHA1: 3dcf747a8fe767b506f937c4c2fc6ace1950fe88
+SHA256: 519eb714e8593c1d7dfbc63d0d507c365219180257de97121bf1d27975152234
+SHA512: 9f7076e8bd19bc37a2466e8dcb17eec70816848be6dbcdc068a052fa102bf49d90e1fac1ce5b49ba31fc62fb9164d7ea9a537f97b0ae2903ba3e8333b2c959ac
 Description: Package created with checkinstall 1.6.2
 
 Package: nii-tex-pdf
