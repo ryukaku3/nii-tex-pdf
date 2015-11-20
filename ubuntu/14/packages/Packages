@@ -5,12 +5,13 @@ Installed-Size: 153
 Maintainer: root <root@unknown>
 Architecture: all
 Version: 1.0.3-1
+Depends: libyaml-perl, nii-tex-pdf-kyotocabinet-perl
 Filename: ./nii-tex-pdf_1.0.3-1_all.deb
-Size: 18996
-MD5sum: 22b1b2b11216e0bfcfa6c181e2a0739d
-SHA1: 90a7097c1e56bb904dace7d683958f4e33af8caa
-SHA256: 246ec1e7e012b5d129bbe6d6ead9190331fe0dd561b3ad6e3600f7e71f15534c
-SHA512: b869d3714ca6ec0a810bff5ee6990ef1a13f8647c7c1473b6fdb784a96f9dec282ce4755b478e5f7a623c706d635a534728b613d5ff21b08a7496d487826de36
+Size: 18998
+MD5sum: 1a47b3fae79ba27fa08eec0b8a0db437
+SHA1: aec8ce010c1083d79be14b748740b23792f51fb1
+SHA256: 76424dee60f0f6dee76b50f1bb6deb9b99462b2beac289c369064aa352e2b2bc
+SHA512: e6045c6206e04014cacb938ecb64b7466efc452278f62f67b210260e5d4fbb7eab5e262380d5b8ca7b338a3bd0654da794bd8019001b49e3bcad404940bb3bad
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 Homepage: <insert the upstream URL, if relevant>
