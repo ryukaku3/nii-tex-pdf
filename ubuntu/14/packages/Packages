@@ -19,16 +19,16 @@ Homepage: <insert the upstream URL, if relevant>
 Package: nii-tex-pdf-kyotocabinet-perl
 Priority: extra
 Section: checkinstall
-Installed-Size: 336
-Maintainer: root@cabinet5
+Installed-Size: 252
+Maintainer: tkana@kyagroup.com
 Architecture: amd64
 Version: 1.20-1
 Provides: nii-tex-pdf-kyotocabinet-perl
 Filename: ./nii-tex-pdf-kyotocabinet-perl_1.20-1_amd64.deb
-Size: 57506
-MD5sum: 2daf61a1af41b34fd264e8df485df282
-SHA1: 1634eeba23c90dc7f7842040426eb9c920c2057c
-SHA256: bb6fda47d497176781a4d7f8b7a92ee539f1340f0f2e503b9bb620f6b94c68fd
-SHA512: 80e19ddc4c35069ad7f4474201306b88fec19b0cc60619fe69d44a73088d11b0363284b32f0fe4e524f24390de7fe4295c36ec5aebfebeb795974ba179ba49ca
+Size: 48690
+MD5sum: ab91c531da3734de5cd0ac80816f744d
+SHA1: f46d9baf6ca9be351dfad1ff152ec79f7a49cf41
+SHA256: a4b9e5b505190aceb5107c3dad7edd26dac1358884315d79eac5dd0f05969b2d
+SHA512: 89d2a98ac6e3b74503fb432db66783ff54ab221bc554c519440672510bccc8477910a55e9766bd2d18e773053f3af7ded492a9e6a2b81c640f4c4044945651ae
 Description: Package created with checkinstall 1.6.2
 
